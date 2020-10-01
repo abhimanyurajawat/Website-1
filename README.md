@@ -1,4 +1,4 @@
-The Ways of the World
+The Different Ways of the World
 =====================
 
 ## Deployment ##
